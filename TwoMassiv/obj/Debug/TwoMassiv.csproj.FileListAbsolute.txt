@@ -1,0 +1,15 @@
+E:\Работы VS\TwoMassiv\bin\Debug\TwoMassiv.exe.config
+E:\Работы VS\TwoMassiv\bin\Debug\TwoMassiv.exe
+E:\Работы VS\TwoMassiv\bin\Debug\TwoMassiv.pdb
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.csprojAssemblyReference.cache
+E:\Работы VS\TwoMassiv\obj\Debug\MainWindow.g.cs
+E:\Работы VS\TwoMassiv\obj\Debug\App.g.cs
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv_MarkupCompile.cache
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv_MarkupCompile.lref
+E:\Работы VS\TwoMassiv\obj\Debug\MainWindow.baml
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.g.resources
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.Properties.Resources.resources
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.csproj.GenerateResource.cache
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.csproj.CoreCompileInputs.cache
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.exe
+E:\Работы VS\TwoMassiv\obj\Debug\TwoMassiv.pdb
